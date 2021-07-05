@@ -1,0 +1,14 @@
+{
+	"name": "V2Rrrrrrrrrrsssfay",
+	"description": "Deploy V2ray on Heroku.",
+	"keywords": ["V2Ray"],
+	"env": {
+		"UUID": {
+			"description": "V2Ray UUID",
+			"value": "ad907497-2d26-4636-98b6-ab85cc8521f7"
+		}
+	},
+	"website": "https://github.com/bclswl0827/v2ray-heroku",
+	"repository": "https://github.com/bclswl0827/v2ray-heroku",
+	"stack": "container"
+}
